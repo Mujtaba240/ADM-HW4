@@ -1,4 +1,4 @@
-# **ADM Homework 4 - MovieLens Dataset Clustering and Game Strategy Optimization**
+# **ADM Homework 4 - MovieLens Dataset Usage for recommendation system**
 
 ---
 
