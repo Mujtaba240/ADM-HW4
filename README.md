@@ -2,7 +2,7 @@
 
 ---
 
-## **Project Overview**
+## **Homework Overview**
 
 This repository contains a single file: **`main.ipynb`**, which includes the entire implementation for **Homework 4** of the **ADM Course**. The project is divided into two major tasks:  
 
